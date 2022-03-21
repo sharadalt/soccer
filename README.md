@@ -15,3 +15,11 @@ All output should be directed to STDOUT and instructions on how to run the progr
 
 I have implemented the program in soccer.rb. To execute the program, the command, ruby ./soccer.rb needs to be executed in the
 directory where the soccer.rb and the soccer.csv files are located.
+
+I have implemented the program in OOD format by creating a class and methods and attributes. I have also created test
+file soccer_spec.rb based on rspec gem. 
+
+You need to install rspec gem, by executing "gem install rspec" at the terminal
+
+In order to execute the program, at the terminal execute "ruby soccer.rb"
+In order to execute the test program , at the terminal execute "rspec soccer_spec.rb"
